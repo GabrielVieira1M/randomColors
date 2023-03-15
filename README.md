@@ -1,6 +1,6 @@
 # Seja bem vindo(a)
 
-<p>Site completo</p>
+## Site completo 💻
 
 <a href="https://gabrielvieira1m.github.io/randomColors"><img src="./image/site-completo.jpeg"></a>
 
