@@ -1,9 +1,11 @@
 # Seja bem vindo(a)
 
-<p>Imagem do site:</p>
+<p>Site completo</p>
 
-![Site completo](./image/site-completo.jpeg)
+<a href="https://gabrielvieira1m.github.io/randomColors"><img src="./image/site-completo.jpeg"></a>
 
-<p>Site completo:</p>
+## Construido com
 
-![Site completo]("https://gabrielvieira1m.github.io/randomColors")
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JS](https://www.javascript.com/)
